@@ -25,12 +25,12 @@ python3 installed.
 
 1. replace the following line in [dps_check_availability.py](https://github.com/Ti-tanium/Texas-DPS-Appointment-Assistant/blob/0eb620007c119587f0f182f83e85b2f4efa5415f/dps_check_availability.py#L8-L13) with your information
 ```python
-email = 'xxxx@gmail.com'
-first_name = 'John'
-last_name = 'Doe'
-date_of_birth = 'MM/DD/YYYY'
-last4ssn = '0000'
-zipcode = '78750'
+email = 'pushparajxa@gmail.com'
+first_name = 'Pushparaj'
+last_name = 'Motamari'
+date_of_birth = '03/31/1989'
+last4ssn = '9442'
+zipcode = '75063'
 type_id = 71 # service type id, 71 for new driver's license
 ```
 
